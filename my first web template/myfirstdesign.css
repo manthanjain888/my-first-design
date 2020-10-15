@@ -1,0 +1,146 @@
+.absolute
+{
+   position: absolute;
+    top: 40%;
+    bottom: 0;
+    left: 40%;
+    right: 0;
+    
+}
+
+.text
+{
+   margin-left: 50px;
+}
+h1.text3
+{
+    text-align: center;
+    margin-right: 68%;
+}
+h1{
+    text-align: center;
+}
+p.plot{
+    text-align: center;
+}
+
+.text1
+{
+  margin-left: 20px;  
+ text-align: center;
+    background-color: white;
+    color: black;
+}
+.text2
+{
+    
+    display: block;
+    background-color: darkgray;
+    border-style: none;
+    border-bottom-color: grey;
+    height: 480px;
+}
+.parallax {
+  /* The image used */
+  background-image: url("images/night-4195327__340.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+  margin-top: -42px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    opacity: 1;
+}
+.text4
+{
+    font-size: 50px;
+    text-align: center;    
+}
+.parallax1   {
+  /* The image used */
+  background-image: url("../image/strawberry-4184605__340.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+  
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("../image/water-4173134__340.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+  margin-top: -20px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text5
+{
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+
+    
+}
+.text6
+{   
+    display: block;
+    background-color: darkgray;
+    color: black;
+    height: 250px;
+    width: 300px;
+    margin-left: 20%;
+    margin-top: -30%;
+    
+}
+p.pos1
+{
+    margin-top: 100px;
+}
+
+.text7
+{   
+    display: block;
+    background-color: darkgray;
+    color: black;
+    height: 250px;
+    width: 300px;
+    margin-left: 20%;
+    margin-top: -30%;
+    
+}
+.text8
+{
+    position: absolute;
+    top=0;
+    left=0;
+    bottom: 3%;
+    right: 2%;
+}
+.text9
+{
+    position: absolute;
+    top=0;
+    left: 96%;
+    bottom:-6%;
+    right:0 ;
+}
+.text10
+{
+    position: absolute;
+    top: 110%;
+    left: 96%;
+    bottom: 0;
+    right: 0;
+}
